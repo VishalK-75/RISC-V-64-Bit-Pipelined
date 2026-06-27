@@ -1,1 +1,57 @@
-
+[*]
+[*] GTKWave Analyzer v3.3.124 (w)1999-2025 BSI
+[*] Tue Jun  9 07:03:08 2026
+[*]
+[dumpfile] "E:\RISC_V 64bit Pipeline\RISC_V 64bit Pipeline\RISC_V 64bit Pipeline.sim\sim_1\behav\xsim\dump.vcd"
+[dumpfile_mtime] "Tue Jun  9 06:52:42 2026"
+[dumpfile_size] 12670
+[savefile] "E:\RISC_V 64bit Pipeline\RISC_V 64bit Pipeline\RISC_V 64bit Pipeline.sim\sim_1\behav\xsim\pipeline_64.gtkw"
+[timestart] 0
+[size] 1920 973
+[pos] -1 -1
+*-18.000000 246000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Pipeline_64_Top_tb.
+[treeopen] Pipeline_64_Top_tb.uut.
+[sst_width] 280
+[signals_width] 360
+[sst_expanded] 1
+[sst_vpaned_height] 286
+@28
+Pipeline_64_Top_tb.clk
+Pipeline_64_Top_tb.rst
+@22
+Pipeline_64_Top_tb.uut.Fetch.InstrF[31:0]
+Pipeline_64_Top_tb.uut.Fetch.InstrD[31:0]
+Pipeline_64_Top_tb.uut.Fetch.PCPlus4F[63:0]
+@28
+Pipeline_64_Top_tb.uut.Fetch.PCSrcE
+@22
+Pipeline_64_Top_tb.uut.Fetch.PCTargetE[63:0]
+Pipeline_64_Top_tb.uut.Fetch.PCPlus4D[63:0]
+Pipeline_64_Top_tb.uut.Decode.ALUControlD[3:0]
+Pipeline_64_Top_tb.uut.Decode.ALUControlE[3:0]
+Pipeline_64_Top_tb.uut.Decode.Imm_ExtD[63:0]
+Pipeline_64_Top_tb.uut.Decode.Imm_ExtE[63:0]
+Pipeline_64_Top_tb.uut.Decode.PCPlus4E[63:0]
+Pipeline_64_Top_tb.uut.Decode.RS1_E[4:0]
+Pipeline_64_Top_tb.uut.Decode.RS2_E[4:0]
+@28
+Pipeline_64_Top_tb.uut.Decode.RegWriteE
+Pipeline_64_Top_tb.uut.Decode.RegWriteW
+Pipeline_64_Top_tb.uut.Decode.ResultSrcE
+Pipeline_64_Top_tb.uut.Execute.ForwardAE[1:0]
+Pipeline_64_Top_tb.uut.Execute.ForwardBE[1:0]
+@22
+Pipeline_64_Top_tb.uut.Execute.PCPlus4E[63:0]
+Pipeline_64_Top_tb.uut.Execute.RdE[4:0]
+Pipeline_64_Top_tb.uut.Execute.RdM[4:0]
+Pipeline_64_Top_tb.uut.Memory.ALUResultM[63:0]
+Pipeline_64_Top_tb.uut.Execute.ResultE[63:0]
+@28
+Pipeline_64_Top_tb.uut.Memory.ResultSrcM
+Pipeline_64_Top_tb.uut.Memory.ResultSrcW
+@22
+Pipeline_64_Top_tb.uut.Writeback.ResultW[63:0]
+Pipeline_64_Top_tb.uut.Writeback.ALUResultW[63:0]
+[pattern_trace] 1
+[pattern_trace] 0
